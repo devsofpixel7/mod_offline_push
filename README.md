@@ -1,6 +1,6 @@
 <<<<<<< HEAD
 Ejabberd 18.09 module to send offline user's message via POST request to target URL.
-This module can call an api to send e.g. a push message. 
+This module can call an api to send e.g. a push message.
 The request body is in application/x-www-form-urlencoded format. See the example below.
 
 V18.09
