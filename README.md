@@ -11,7 +11,7 @@ Installation
 ------------
 
 1. cd /opt/ejabberd-18.06/.ejabberd-module/sources/
-2. git clone https://github.com/PH-F/mod_offline_push.git;
+2. git clone https://github.com/devsofpixel7/mod_offline_push;
 3. bash /opt/ejabberd-18.06/.ejabberd-module/bin/ejabberdctl module-install mod_offline_push
 4. /etc/init.d/ejabberd restart;
 
