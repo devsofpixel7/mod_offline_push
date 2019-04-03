@@ -1,0 +1,5 @@
+author: "Hervie"
+category: "http"
+summary: "HTTP POST user's messages to target URL when user is offline for eJabberd 18.06"
+home: "https://github.com/PH-F/mod_offline_http_post"
+url: "https://github.com/PH-F/mod_offline_http_post"
